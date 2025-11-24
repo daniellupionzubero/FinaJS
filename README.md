@@ -1,2 +1,5 @@
 # Proyecto_Final_JS
-jhgjhgdddd
+
+## proyecto original en:
+
+- https://github.com/daniellupionzubero/Proyecto_Final_JS
